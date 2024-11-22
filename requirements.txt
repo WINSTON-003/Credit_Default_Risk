@@ -2,4 +2,5 @@ matplotlib
 pandas
 numpy
 joblib
+scikit-learn
 statsmodels
